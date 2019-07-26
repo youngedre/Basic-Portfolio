@@ -125,10 +125,10 @@ footer{
     left: 130px;
     top: 0px;
 }
-.rpggame{
+.crystals{
     float: left;
     position: relative;
-    left: -152px;
+    left: -180px;
     top: 174px;
     z-index: 1000;
     background-color: #4aaaa5;
@@ -136,6 +136,7 @@ footer{
     color: #FFFFFF;
     font-weight: bold;
 }
+
 .app3{
     position: relative;
     float: left;
